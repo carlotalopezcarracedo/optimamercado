@@ -1,0 +1,8 @@
+-qwr3C2%Ps2u1%s%uN0%I0p3DaK0M200000000H0%kf2A25000%c2%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://optimamercado.com/ -O1 "C:\Users\carlo\Documents\GitHub\optimamercado\optimamercado" +https://optimamercado.com/* +*.css +*.js +*.webp +*.svg +*.ico +*.woff +*.woff2 +*.ttf -* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Sun, 21 Jun 2026 00:11:53, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

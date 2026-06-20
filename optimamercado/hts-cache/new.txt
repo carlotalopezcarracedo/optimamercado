@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:11:54	633/633	---MCZ	200	added ('OK')	text/plain	date:Sat,%2020%20Jun%202026%2022:11:53%20GMT	https://optimamercado.com/robots.txt		(from )
+00:11:55	905452/905452	---MCZ	200	added ('OK')	text/html	date:Sat,%2020%20Jun%202026%2022:11:54%20GMT	https://optimamercado.com/	C:/Users/carlo/Documents/GitHub/optimamercado/optimamercado/optimamercado.com/index.html	(from )
